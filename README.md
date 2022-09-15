@@ -169,3 +169,4 @@ Project 79, Twenty Forty-Eight: A casual tile matching game.
 Project 80, Vigenère Cipher: An encryption scheme so advanced it remained unbreakable for hundreds of years until computers were invented.
 Project 81, Water Bucket Puzzle: Obtain exactly four liters of water by filling and emptying three buckets.
 
+# more projects coming
